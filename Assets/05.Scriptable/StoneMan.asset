@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac04349b65f62de40b19c356b4717421, type: 3}
+  m_Name: StoneMan
+  m_EditorClassIdentifier: 
+  snowManIndex: 5
+  inGameName: "\uB3CC\uC0AC\uB78C"
+  damage: 80
+  AttackSpeed: 0.5
+  range: 3
+  snowManCamera: {fileID: 2100000, guid: 5f19629766ccc584da013d3397cd269d, type: 2}
+  abilityCount: 0
+  abilityExplanation: "\uD30C\uC6CC \uC5B4\uD0DD"
+  upgradeLevel: 6
+  additionalDamage: 0
+  additionalAttackSpeed: 0
+  additionalRange: 0
+  upgradeDamage: 10
+  upgradeAttackSpeed: 0
+  upgradeRange: 0

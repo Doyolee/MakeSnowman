@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac04349b65f62de40b19c356b4717421, type: 3}
+  m_Name: JackOLantern
+  m_EditorClassIdentifier: 
+  snowManIndex: 2
+  inGameName: "\uC7AD\uC624\uB79C\uD134"
+  damage: 10
+  AttackSpeed: 2
+  range: 8
+  snowManCamera: {fileID: 2100000, guid: dc70fb82d59855e49b7c45ca6371e9b9, type: 2}
+  abilityCount: 0
+  abilityExplanation: "\uBE60\uB978 \uC18D\uB3C4\uB85C \uC801\uC744 \uACF5\uACA9\uD55C\uB2E4"
+  upgradeLevel: 0
+  additionalDamage: 0
+  additionalAttackSpeed: 0
+  additionalRange: 0
+  upgradeDamage: 5
+  upgradeAttackSpeed: 0
+  upgradeRange: 0

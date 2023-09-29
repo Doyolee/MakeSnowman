@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac04349b65f62de40b19c356b4717421, type: 3}
+  m_Name: IceMan
+  m_EditorClassIdentifier: 
+  snowManIndex: 3
+  inGameName: "\uC5BC\uC74C\uC0AC\uB78C"
+  damage: 50
+  AttackSpeed: 0.5
+  range: 4
+  snowManCamera: {fileID: 2100000, guid: a0ab87ca13904a749b59686300ccf4e3, type: 2}
+  abilityCount: 0
+  abilityExplanation: "\uC801\uC744 \uB290\uB9AC\uAC8C \uD55C\uB2E4."
+  upgradeLevel: 3
+  additionalDamage: 0
+  additionalAttackSpeed: 0
+  additionalRange: 0
+  upgradeDamage: 5
+  upgradeAttackSpeed: 0
+  upgradeRange: 0

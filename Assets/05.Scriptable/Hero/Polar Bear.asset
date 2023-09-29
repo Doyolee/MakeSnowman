@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a59fe870e151c94385f35218d25c09d, type: 3}
+  m_Name: Polar Bear
+  m_EditorClassIdentifier: 
+  heroIndex: 0
+  heroImage: {fileID: 2100000, guid: 1c0e5a1e42edaa349a278fa8f01c30d0, type: 2}
+  heroName: "\uBD81\uADF9\uACF0"
+  heroAbility: "\uBC14\uC774\uD0B9\uC774 \uC77C\uC815\uD655\uB960 \uCE58\uBA85\uD0C0"
+  heroLevel: 1
+  snowMan: {fileID: 9025699823862185567, guid: 1e8f81a10ecc12f4c9ab6e474da432d9, type: 3}
+  snowManData: {fileID: 11400000, guid: c7da54ff4c796c844bb5950ae552b92e, type: 2}
